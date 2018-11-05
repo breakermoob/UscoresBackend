@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: viIHTll3CfHq5iJPusUuftpAcTEOt
+ SuPOoCnd6w9xUU=
+SHA-256-Digest-Manifest: eaFTwAu6ARG8E8RWCI/GfbXJFilgseXisp6//b3mlrE=
+Created-By: 1.8.0_131 (Oracle Corporation)
+
+Name: org/eclipse/jdt/internal/junit5/runner/JUnit5TestListener$Ignore
+ dTestIdentifier.class
+SHA-256-Digest: AKzOd7nY3JHZDPdLrpD5Ug2Ok3Ow5/YGufIK5Zik9A0=
+
+Name: about.html
+SHA-256-Digest: fz3somdR7f7Qlv4MFhaJfkDWglIbzI8gaTyRV90fCPs=
+
+Name: org/eclipse/jdt/internal/junit5/runner/JUnit5TestListener$Assump
+ tionFailedTestIdentifier.class
+SHA-256-Digest: a1xc+F372X/o7lRllyrhBvy4h6nYoCVzbOdU30sOpwI=
+
+Name: plugin.properties
+SHA-256-Digest: BlfT8/kMbvS5TwNOReB0ZfEZwMu4RrVPEwRuFEgNA6c=
+
+Name: .api_description
+SHA-256-Digest: A91BsUnCpgOX/29GokaT0ejUPG2O8/eJKlzaGWHdG7g=
+
+Name: org/eclipse/jdt/internal/junit5/runner/JUnit5TestLoader.class
+SHA-256-Digest: ms7yKAGdocpwZzLHolkjPzvBFY+AASuuHJS9GAPwbE0=
+
+Name: org/eclipse/jdt/internal/junit5/runner/JUnit5TestReference.class
+SHA-256-Digest: bwsgPwWfCZuPInYS6CgqW72GQ8KP7y1U6VD1fQW8b0Q=
+
+Name: org/eclipse/jdt/internal/junit5/runner/JUnit5TestListener.class
+SHA-256-Digest: g0LmBJTUZ7eeZZKmW8SLT1KPEMEqPDxWFxo5XuU2ePQ=
+
+Name: org/eclipse/jdt/internal/junit5/runner/JUnit5Identifier.class
+SHA-256-Digest: 2wBhpFQ/WPSZAu+w5vsJX1WLzbNlM+xbt6FSgmKfhfw=
+
